@@ -1,1 +1,1 @@
-# hypuin.js
+# hypuin
